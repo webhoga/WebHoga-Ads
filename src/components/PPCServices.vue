@@ -71,19 +71,19 @@ const submitted = ref(false)
 
 const caseStudies = [
   {
-    client: 'Urban Style Fashion',
+    client: 'Fashion',
     industry: 'E-Commerce - Apparel',
     result: 'Increased ROAS by 370% in 2 months using dynamic Google Shopping campaigns.',
     location: 'Mumbai, India',
   },
   {
-    client: 'Smile Dental Care',
+    client: 'Dental Care',
     industry: 'Healthcare - Local Clinic',
     result: 'Generated 220+ appointment leads in 30 days with Google Local Ads.',
     location: 'Bangalore, India',
   },
   {
-    client: 'Pixel Academy',
+    client: 'Academy',
     industry: 'EdTech - Online Courses',
     result: 'Reduced CPA by 42% and doubled leads in 6 weeks using PPC and landing page optimization.',
     location: 'Delhi, India',
