@@ -71,19 +71,19 @@ const submitted = ref(false)
 
 const caseStudies = [
   {
-    client: 'FitFuel Nutrition',
+    client: 'Nutrition',
     industry: 'Health & Wellness',
     result: 'Tripled organic traffic in 4 months with weekly SEO-optimized blogs.',
     location: 'Ahmedabad, India',
   },
   {
-    client: 'LegalPro Associates',
+    client: 'Legal Associates',
     industry: 'Legal Services',
     result: 'Increased inbound consultations by 55% with case study-driven articles.',
     location: 'Noida, India',
   },
   {
-    client: 'NeoBankX',
+    client: 'Fintech Bank',
     industry: 'Fintech',
     result: 'Built brand authority and trust with weekly thought-leadership posts.',
     location: 'Mumbai, India',
