@@ -71,19 +71,19 @@ const submitted = ref(false)
 
 const caseStudies = [
   {
-    client: 'ShopNow Mart',
+    client: 'Online Mart',
     industry: 'E-Commerce - Retail',
     result: 'Drove 32% uplift in monthly sales with automated email flows.',
     location: 'Chennai, India',
   },
   {
-    client: 'Elite Law Firm',
+    client: 'Law Firm',
     industry: 'Legal Services',
     result: 'Achieved 48% email open rates with client nurture campaigns.',
     location: 'Hyderabad, India',
   },
   {
-    client: 'Zen Spa',
+    client: 'Spa',
     industry: 'Wellness & Beauty',
     result: 'Reactivated 1,000+ dormant customers with re-engagement emails.',
     location: 'Pune, India',
